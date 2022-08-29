@@ -1,0 +1,36 @@
+.text-container{
+text-align: center;
+padding-top: 3rem;
+}
+
+.text-style{
+border: hidden;
+width: 80vw;
+height: auto;
+}
+
+#ckeditor{
+width: 80vw;
+height: 50vh;
+}
+
+.btn-container{
+text-align: center;
+}
+
+#submit-btn{
+width: 80px;
+height: 30px;
+margin: 0px auto;
+}
+
+#fadeout {
+  opacity: 1;
+  transition: 10s opacity;
+  text-align: center;
+  font-size:32px;
+}
+
+p {
+  text-align: center;
+}
